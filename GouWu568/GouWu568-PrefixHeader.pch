@@ -1,0 +1,23 @@
+//
+//  GouWu568-PrefixHeader.pch
+//  GouWu568
+//
+//  Created by echo13 on 15/9/25.
+//  Copyright © 2015年 echo. All rights reserved.
+//
+
+#ifndef GouWu568_PrefixHeader_pch
+#define GouWu568_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <UIKit/UIKit.h>
+#import "Define.h"
+#import "HttpTools.h"
+#import "JHRefresh.h"
+#import "CompanyModel.h"
+#import "Tools.h"
+#import "UserModel.h"
+
+#endif /* GouWu568_PrefixHeader_pch */
